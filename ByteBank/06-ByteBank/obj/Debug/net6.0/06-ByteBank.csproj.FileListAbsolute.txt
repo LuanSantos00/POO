@@ -1,0 +1,15 @@
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.exe
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.deps.json
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.runtimeconfig.json
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.dll
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\bin\Debug\net6.0\06-ByteBank.pdb
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.AssemblyReference.cache
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfoInputs.cache
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfo.cs
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.dll
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\refint\06-ByteBank.dll
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.pdb
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\06-ByteBank.genruntimeconfig.cache
+C:\Mobills\source\repos\Curso\POO\ByteBank\06-ByteBank\obj\Debug\net6.0\ref\06-ByteBank.dll
